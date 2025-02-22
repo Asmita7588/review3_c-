@@ -1,0 +1,14 @@
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\bin\Debug\net8.0\review3.exe
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\bin\Debug\net8.0\review3.deps.json
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\bin\Debug\net8.0\review3.runtimeconfig.json
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\bin\Debug\net8.0\review3.dll
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\bin\Debug\net8.0\review3.pdb
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.AssemblyInfoInputs.cache
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.AssemblyInfo.cs
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.csproj.CoreCompileInputs.cache
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.dll
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\refint\review3.dll
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.pdb
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\review3.genruntimeconfig.cache
+C:\Users\asmita1\source\repos\Bridgelabz_practice_program\review3\review3\obj\Debug\net8.0\ref\review3.dll
